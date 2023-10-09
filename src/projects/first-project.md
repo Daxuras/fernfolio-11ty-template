@@ -2,13 +2,11 @@
 title: Tischtennis
 emoji: 🏓
 date: 2019-01-01T00:00:00.000Z
-summary: |
-  Ansprechpartner: Karl Kopp 015123456789 karlkopp@gmail.com
-  Training:
-  Montag 18:00-20:00 Uhr Am Sportzentrum
-  Dienstag 18:00-20:00 Uhr Am Sportzentrum / 19:30-22:00 Uhr TV Halle
-  Donnerstag 18:00-20:00 Uhr Am Sportzentrum 
-  Freitag 18:00-20:00 Uhr Am Sportzentrum / 19:30-22:00 Uhr TV Halle
+summary: >
+  Ein Sport für Jeden. Ob Jung oder Alt, ob sportlich oder unsportlich, jeder
+  kann Tischtennis spielen.
+
+  Kommt bei uns vorbei und probierts aus.
 metaDescription: This is a sample meta description. If one is not present in
   your page/project's front matter, the default metadata.desciption will be used
   instead.
@@ -17,11 +15,10 @@ tags:
   - graphQL
   - aws
 ---
+### Ansprechpartner: Karl Kopp 015123456789 karlkopp@gmail.com
 
-### Task
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+### Training:
+Montag 18:00-20:00 Uhr Am Sportzentrum
+Dienstag 18:00-20:00 Uhr Am Sportzentrum / 19:30-22:00 Uhr TV Halle
+Donnerstag 18:00-20:00 Uhr Am Sportzentrum 
+Freitag 18:00-20:00 Uhr Am Sportzentrum / 19:30-22:00 Uhr TV Halleg.
