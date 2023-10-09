@@ -10,4 +10,4 @@ eleventyNavigation:
   key: contact
   order: 4
 ---
-W﻿erde Mitglied von unserem Verein!
+W﻿erde Mitglied von unserem Verein
