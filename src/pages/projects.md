@@ -1,6 +1,6 @@
 ---
 layout: projects.njk
-title: Mitglied werden
+title: Abteilungen
 subtitle: This is the page where all projects will live
 metaDescription: A sample Projects page
 date: 2021-01-01
