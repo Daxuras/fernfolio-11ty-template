@@ -10,10 +10,7 @@ summary: >
 metaDescription: This is a sample meta description. If one is not present in
   your page/project's front matter, the default metadata.desciption will be used
   instead.
-tags:
-  - golang
-  - graphQL
-  - aws
+tags: []
 ---
 ### Ansprechpartner: Karl Kopp 015123456789 karlkopp@gmail.com
 
